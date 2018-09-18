@@ -8730,6 +8730,11 @@ p.card-text {
   font-size: 12px;
   display: flex;
 }
+div.col-sm-12.col-md-6.col-lg-4.col-xl-4 {
+  float: right;
+  display: flex;
+  
+}
 /* .portfolio {
   
   padding: 0 40px;
