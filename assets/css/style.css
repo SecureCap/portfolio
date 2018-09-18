@@ -8721,3 +8721,65 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
     border-radius: 4px;
   }
 }
+
+h4.card-title {
+  font-size: 15px;
+}
+
+p.card-text {
+  font-size: 12px;
+  display: flex;
+}
+/* .portfolio {
+  
+  padding: 0 40px;
+  padding-bottom: 40px;
+}
+
+.port-exp-edu-title {
+  padding: 50px 0 20px 0;
+  
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  body {
+    margin: 20px;
+  }
+
+  .about-me {
+    width: 100%;
+  }
+
+  .experience {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .company-wrapper {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 789px) {
+  .job-wrapper {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+}
+
+@media (max-width:768px) {
+  .list-titles {
+    width: 40%;
+  }
+
+  .list-content {
+    width: 60%;
+  }
+} */
